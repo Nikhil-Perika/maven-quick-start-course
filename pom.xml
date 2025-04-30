@@ -12,6 +12,13 @@
   <groupId>clinic.programmming</groupId>
   <artifactId>maven-quick-start</artifactId>
   <version>1.0</version>
+  <dependencies>
+	<dependency>
+    <groupId>org.netbeans.external</groupId>
+    <artifactId>org-apache-commons-lang3</artifactId>
+    <version>RELEASE130</version>
+</dependency>
+  </dependencies>
   <build>
     
     <plugins>
