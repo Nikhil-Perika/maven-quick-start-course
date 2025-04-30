@@ -1,2 +1,3 @@
 # maven-quick-start-course
-Content from Maven Quick Start course by Jason Taylor
+A simple Maven quick start guide for beginers
+A quick start guide
